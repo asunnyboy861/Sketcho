@@ -9,16 +9,16 @@
 | **Repo URL** | https://github.com/asunnyboy861/Sketcho |
 | **Visibility** | Public |
 | **Primary Language** | Swift |
-| **GitHub Pages** | ⏳ Pending (enabled in PHASE 7 from `/docs` folder) |
+| **GitHub Pages** | ✅ **ENABLED** (from `/docs` folder) |
 
 ## Policy Pages (Deployed from Main Repository /docs)
 
 | Page | URL | Status |
 |------|-----|--------|
-| Landing Page | https://asunnyboy861.github.io/Sketcho/ | ⏳ Pending |
-| Support | https://asunnyboy861.github.io/Sketcho/support.html | ⏳ Pending |
-| Privacy Policy | https://asunnyboy861.github.io/Sketcho/privacy.html | ⏳ Pending |
-| Terms of Use | https://asunnyboy861.github.io/Sketcho/terms.html | ⏳ Pending (subscription app) |
+| Landing Page | https://asunnyboy861.github.io/Sketcho/ | ✅ Active |
+| Support | https://asunnyboy861.github.io/Sketcho/support.html | ✅ Active |
+| Privacy Policy | https://asunnyboy861.github.io/Sketcho/privacy.html | ✅ Active |
+| Terms of Use | https://asunnyboy861.github.io/Sketcho/terms.html | ✅ Active (subscription app) |
 
 ## Repository Structure
 
