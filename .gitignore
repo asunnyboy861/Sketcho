@@ -1,0 +1,10 @@
+.env
+keytext*.md
+COMPETITOR_REPORT.md
+GLMSecret.txt
+Secrets.plist
+icon_raw.png
+*.xcuserstate
+xcuserdata/
+.DS_Store
+improvement_plan*.md
